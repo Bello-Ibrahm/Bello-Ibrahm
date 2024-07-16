@@ -14,8 +14,13 @@ Skills: IT Technician | PHP | Python | REACT | JS | HTML5 | CSS3
 
 <!-- - 🔭 I’m currently working on this page.  -->
 
+<a href="https://github.com/Bello-Ibrahm" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="40"></a>
+<a href="https://www.linkedin.com/in/bello-ibrahim-9b7979259/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="40"></a>
+<a href="https://www.youtube.com/channel/https://youtu.be/KhGWbt1dAKQ?si=vJX7rId9DxpPxpPJ" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="YouTube" height="40"></a>
+<a href="https://an-nur-info-tech.com/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg" alt="website" height="40"></a>
+<a href="https://wa.me/message/Y3BQG6SHQEZRA1" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="whatsapp" height="40"></a>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Bello-Ibrahm)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/bello-ibrahim-9b7979259/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://youtu.be/KhGWbt1dAKQ?si=vJX7rId9DxpPxpPJ)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://an-nur-info-tech.com/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg' alt='whatsapp' height='40'>](https://wa.me/message/Y3BQG6SHQEZRA1)  
+<!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Bello-Ibrahm)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/bello-ibrahim-9b7979259/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://youtu.be/KhGWbt1dAKQ?si=vJX7rId9DxpPxpPJ)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://an-nur-info-tech.com/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg' alt='whatsapp' height='40'>](https://wa.me/message/Y3BQG6SHQEZRA1)   -->
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bello-Ibrahm&show_icons=true)  
 

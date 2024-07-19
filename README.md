@@ -1,4 +1,5 @@
-![Image banner]([path/to/image.jpg](https://github.com/Bello-Ibrahm/Bello-Ibrahm/blob/main/My_banner.png))
+![Image banner](https://github.com/Bello-Ibrahm/Bello-Ibrahm/blob/main/My_banner.png)
+
 ### Hi there 👋, Bello Ibrahim
 #### A passionate IT technician, web developer, and software engineer (backend) from Nigeria
 Bello Ibrahim (CEO & Founder of [An-Nur Info-Tech](https://an-nur-info-tech.com)) | IT officer @[Crest-Agro ltd](https://crest-agro.com/)  

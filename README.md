@@ -1,4 +1,4 @@
-<img src="My_banner.png" alt="Image banner" width="100%" height="200">
+<!-- <img src="My_banner.png" alt="Image banner" width="100%" height="300"> -->
 ### Hi there 👋, I'm Bello Ibrahim
 #### A passionate IT technician, web developer, and software engineer (backend) from Nigeria
 Bello Ibrahim (CEO & Founder of [An-Nur Info-Tech](https://an-nur-info-tech.com)) | IT officer @[Crest-Agro ltd](https://crest-agro.com/)  

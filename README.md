@@ -2,7 +2,7 @@
 #### A passionate IT technician, web developer, and software engineer (backend) from Nigeria
 Bello Ibrahim (CEO & Founder of [An-Nur Info-Tech](https://an-nur-info-tech.com)) | IT officer @[Crest-Agro ltd](https://crest-agro.com/)  
 
-I am an IT Technician who transitioned into software engineering and hold a computer science degree from a prestigious polytechnic. With a decade of experience in the tech industry, I have partnered with various organizations and companies to drive digital transformation and IT automation, optimizing their end-to-end business operations.
+I am an IT Technician who transitioned into software engineering, and a computer science graduate. With a decade of experience in the tech industry, I have partnered with various organizations and companies to drive digital transformation and IT automation, optimizing their end-to-end business operations.
 
 As technology continually evolves, I remain dedicated to staying ahead of the curve. I actively pursue learning opportunities on top-tier platforms to expand my skill set and delve into emerging technologies like C, Python, MySQL, PHP, and beyond.
 

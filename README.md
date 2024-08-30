@@ -1,7 +1,7 @@
 <!-- <img src="My_banner.png" alt="Image banner" width="100%" height="300"> -->
 ### Hi there 👋, I'm Bello Ibrahim
 #### A passionate IT technician, web developer, and software engineer (backend) from Nigeria
-Bello Ibrahim (CEO & Founder of [An-Nur Info-Tech](https://an-nur-info-tech.com)) | IT officer @[Crest-Agro ltd](https://crest-agro.com/)  
+Bello Ibrahim (Founder of [An-Nur Info-Tech](https://an-nur-info-tech.com)) | IT officer @[Crest-Agro ltd](https://crest-agro.com/)  
 
 I am an IT Technician who transitioned into software engineering, and a computer science graduate. With a decade of experience in the tech industry, I have partnered with various organizations and companies to drive digital transformation and IT automation, optimizing their end-to-end business operations.
 
@@ -11,7 +11,7 @@ I strongly believe in the power of collaboration and teamwork. Whether you're in
 
 Thank you for visiting my profile. Whether you're a fellow industry professional, a hiring manager, or someone passionate about technology, I welcome the opportunity to connect and engage in meaningful conversations. Together, let's shape the future with cutting-edge technology!
 
-Skills: IT Technician | PHP | Python | REACT | JS | HTML5 | CSS3
+Skills: IT Technician | PHP | Python | C | JS | HTML5 | CSS3
 
 <!-- - 🔭 I’m currently working on this page.  -->
 
